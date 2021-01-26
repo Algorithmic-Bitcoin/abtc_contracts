@@ -15,4 +15,4 @@ While expected time is 30 minutes, which means 3 blocks.
 
 ## Miner
 
-Developers can write her/his own miner using ethereum-based API.
+Users could use [Desktop-Miner](https://github.com/Algorithmic-Bitcoin/abtc-miner-electron) to participate ABTC journey. Developers can write her/his own miner using ethereum-based API.
